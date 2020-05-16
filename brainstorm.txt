@@ -1,0 +1,21 @@
+1. 25 timer
+2. 5 break
+3. buttons increase and decrease (customise)
+4. reset button
+5. Start/Stop Button
+6. Pause Button
+
+
+
+
+Structure:
+HTML
+    Timer/Countdown View
+    Increase/Decrease Buttons for both timer and break
+    Reset Button
+CSS
+    Worry about it later
+
+JavaScript
+    Worry about it later
+    window.setInterval()
